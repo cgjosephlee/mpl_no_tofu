@@ -1,0 +1,11 @@
+{
+    "NotoSansTC": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notosanstc/"}, 
+    "NotoSerifTC": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notoseriftc/"}, 
+    "NotoSansSC": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notosanssc/"}, 
+    "NotoSerifSC": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notoserifsc/"}, 
+    "NotoSansHK": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notosanshk/"}, 
+    "NotoSansJP": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notosansjp/"}, 
+    "NotoSerifJP": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notoserifjp/"}, 
+    "NotoSansKR": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notosanskr/"}, 
+    "NotoSerifKR": {"SRC_PREFIX": "https://github.com/google/fonts/raw/e69986d37832cc07980dee9d70fa5597b0b47ad8/ofl/notoserifkr/"}
+}
