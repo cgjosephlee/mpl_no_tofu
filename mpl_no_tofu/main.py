@@ -27,7 +27,7 @@ def load_metadata(path):
     else:
         with open(path) as f:
             data = f.read()
-    msg = text_format.Parse(data, fonts_public_pb2.FamilyProto())
+    msg = text_format.Parse(data, fonts_public_pb2.FamilyProto(), allow_unknown_field=True)
     return msg
 
 def download_fonts(filenames: List[str], src: str, dest: str, force: bool=False):
