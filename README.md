@@ -15,7 +15,7 @@ pip install git+https://github.com/cgjosephlee/mpl_no_tofu.git
 ```python
 import matplotlib.pyplot as plt
 from mpl_no_tofu import load_fonts
-load_fonts()  # default installs "NotoSansTC"
+load_fonts("NotoSansTC")
 # your plots
 ```
 

@@ -52,7 +52,7 @@ def mpl_current_fonts():
 
 def load_fonts(name: str="NotoSansTC", force: bool=False):
     """
-    Download and laod fonts for matplotlib.
+    Download and load fonts for matplotlib.
     
     :name: Can be font name defined in config, or an url of "METADATA.pd".
     :force: Force re-download and overwrite fonts.
